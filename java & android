@@ -1,0 +1,186 @@
+
+《Java语言程序设计》，优点是非常基础，适合初学者，建议只要看到前十四章就ok了，第十二章也可以略过。
+http://book.douban.com/subject/6529833/
+
+Mars老师的Java4Android视频课程结合学习，便于初学者很好的理解与入门。
+http://pan.baidu.com/s/1c1beYo4
+
+如果每天至少坚持学习3-4小时的话，这一阶段差不多花费1--2个月之间都算正常，范围因人以及花费的时间而异。
+
+Mars老师的Android开发视频教程
+http://marschen.com/portal.php
+
+极客学院Android开发视频教程
+http://www.jikexueyuan.com/path/android/
+
+慕课网的Android视频教程
+http://www.imooc.com/course/list?c=android
+
+Android开发资源
+了解这些资源你绝对会接触另一个世界，这些资源大部分都是我圈中好友总结分享的项目，绝对干货！
+
+Google Android官方教程中文版
+http://t.cn/RvHtswy
+
+
+Android 开发最佳实践
+一些优秀Android开发者总结留下来的经验，了解这些能让你的学习之路事半功倍。
+http://t.cn/RwgJoHm
+
+
+
+
+Android开源汇总
+GitHub上总结的最全的Android各大开源项目，让你大开眼界！
+http://t.cn/R2LTQkN
+
+Android Weekly
+了解最新的Android相关的技术有哪些，时刻了解紧跟技术趋势，建议加入邮箱订阅。
+http://androidweekly.net/
+
+
+Android Weekly Cn
+
+
+我一个朋友做的国内版的Android Weekly，更符合国情。
+http://www.androidweekly.cn/
+
+
+Android源码解析
+我的朋友Trinea发起的一个专注于开源项目源码解析及优秀开源项目的分享的网站
+http://p.codekk.com/
+
+
+
+国内优秀Android开发者的博客
+
+这里筛选一些有质量的博客给大家，大都是你们的前辈，绝对一线的博客。
+
+stormzhang的博客
+http://stormzhang.com/
+
+郭霖的博客
+http://blog.csdn.net/guolin_blog
+
+Trinea的博客
+http://www.trinea.cn/
+
+魏祝林的博客
+http://blog.csdn.net/android_tutor
+
+
+恺风（Wei）之Android专栏
+http://blog.csdn.net/column/details/flowingflying02.html
+
+张鸿洋的博客
+http://blog.csdn.net/lmj623565791
+
+张兴业的博客
+http://blog.csdn.net/xyz_lmn
+
+
+更多国内优秀开发者的博客
+http://t.cn/RPniqXI
+
+国外著名优秀开发者博客
+http://t.cn/RPni7a0
+
+
+国内外优秀Andorid团体博客
+Android Developers Blog （Android开发者官方博客，须翻墙）
+http://android-developers.blogspot.tw/
+
+美团点评技术团队
+http://tech.meituan.com/
+
+腾讯全端 AlloyTeam 团队 Blog
+http://www.alloyteam.com/
+
+Android进阶书籍
+当你Android开发已经上手之后，突然发现一直进步很慢，处于一个瓶颈了，这个时候你需要这些书籍。
+Thinking In Java
+Java经典书籍，有中文版的，可能为了学习Android，你只掌握了Java基础，但是远远不够，你需要再重新系统的学习一下Java，这是一本值得反复看的书籍，针对有一定Java基础的人，会让你重新认识下Java。
+http://book.douban.com/subject/1474824/
+
+Effective Java
+这是一本实用至上的书，78条建议，满满的干货。每一条都说明了为什么最好这样，Java进阶必备，目前为止看过这本书评价最好的一本。
+http://book.douban.com/subject/3360807/
+
+App研发录
+从App架构的角度，重点总结了Android应用开发中常见的实用技巧和疑难问题解决方法，为打造高质量App提供有价值的实践指导，避免你在实际项目中踩坑，读完绝对有收获。
+http://book.douban.com/subject/26649050/
+
+Android开发艺术探索
+这是一本Android进阶类书籍，采用理论、源码和实践相结合的方式来阐述高水准的Android应用开发要点，Android开发进阶值得拥有。
+http://book.douban.com/subject/26599538/
+
+AndroidUI设计
+Material Design
+在开发一款Android App之前，你需要了解下Android平台的设计规范，这里有Google最新推出的Material Design中文翻译版。
+http://t.cn/RLrJg33
+
+
+而且 Google 官方出了一个支持库 Android Design Support Library，具体用法见链接。
+http://t.cn/R2orZH9
+
+
+Sketch 3
+这个工具只推荐给对UI感兴趣的开发者，这是一个专为设计移动端 UI 的设计工具，作为开发者，不用懂那么复杂的 PS 使用，也可以做非常专业设计。
+https://designcode.io/sketch
+
+AndroidApp源码推荐
+当你已经做Android开发一段时间，并苦于进入瓶颈，这个时候阅读一些优秀App的源码是最好的学习进阶方式，借鉴一些优秀App源码的设计能获益很大。
+iosched
+iosched项目是Google I/O的官方app，绝佳的学习项目。
+https://github.com/google/iosched
+
+android-UniversalMusicPlayer
+也是Google官方作品，代码量不大、注释清晰，简单但全功能的音乐播放器。
+https://github.com/googlesamples/android-UniversalMusicPlayer
+
+android-topeka
+这个项目是Google前段时间刚发出来，通过这个app，你还可以学到如何设计你app的交互和视觉以更好的和MaterialDesign搭配。
+https://github.com/googlesamples/android-topeka
+
+
+Google的项目有些时候对于初学者有点困难，下面就推荐两个完整的轻量的学习项目。
+
+
+9GAG
+9GAG是我个人的开源练习项目，教你使用Studio、Gradle以及一些流行的开源库快速开发一个不错的Android客户端。
+https://github.com/stormzhang/9GAG
+
+
+AnimeTaste
+代码家开源的一个线上关注动画的一个App，同样适合初学者学习。
+https://github.com/daimajia/AnimeTaste
+
+
+Android新技术
+你需要了解Android有以下新兴的技术与框架，有些也许还不成熟，但是你应该去了解下，也许就是未来的方向。
+Kotlin
+作为 Android 领域的 Swift，绝对让你如沐新风。抛弃沉重的 Java 语法，Kotlin 融入了很多现代编程语言的思想，作为开发者，接受新的语言，了解新语言的发展趋势，更有利于开阔你的思路和加深对语言的理解。
+http://t.cn/R2DK0SL
+
+
+React Native
+Facebook推出的针对移动应用的跨平台解决方案，目前还不成熟，但是由于Facebook推出，光环效应引起不少目光，这是不是未来暂且还没结论，但是有必要了解学习下。
+http://t.cn/RbHmtOk
+
+MVP
+MVP越来越多的被Android社区所讨论，有点是能够让代码更清晰，但同时也会增加很多类，写起来更麻烦，不过对于一些不是很庞大的项目却是非常适合的。这里提供一个最先采用MVP模式的开源项目：
+https://github.com/pedrovgs/EffectiveAndroidUI
+
+MVVM
+因为官方支持 DataBinding，把 MVVM 直接带到 Android 中。它非常高效的开发效率，让你只关心你的数据和业务，从此数据绑定会更加常见。
+http://t.cn/RbHmnhE
+
+插件化
+一般App上线之后出现bug需要重新提交新版本才能解决，这个就太慢了，由于iOS的审核原因，插件化在iOS开发常见，阿里业务方面这个特别需要，比如双十一出了bug，不能眼睁睁的看着bug出现不管吧，所以阿里系衍生出了一系列热修复的框架，dexposed、AndFix，具体可以见这里详解。
+http://lirenlong.github.io/hotfix/
+
+
+RxJava
+最近响应式编程框架RxJava越来越受大家待见，RxJava让你异步任务更简洁方便，以我对技术的敏感性认为RxJava可能会越来越普遍，推荐大家学习。这里有一系列详细的资料教你学习。
+https://github.com/lzyzsd/Awesome-RxJava
+
